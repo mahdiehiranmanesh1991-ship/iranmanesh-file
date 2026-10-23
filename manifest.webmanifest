@@ -1,0 +1,20 @@
+{
+  "name": "ایرانمنش فایل",
+  "short_name": "ایرانمنش فایل",
+  "description": "ابزار آماده‌سازی فایل برای سامانه خودکاربری وکلا — پردازش کاملاً روی دستگاه شما",
+  "lang": "fa",
+  "dir": "rtl",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F6EFDF",
+  "theme_color": "#14233F",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
